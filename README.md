@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ks07-v
+- 👋 Hi, I’m khushi
 - 👀 I’m interested in learning new things
-
+- I'm new in git
 - 💞️ I’m looking to collaborate on ... app development
 - cherryblossam70@gmail.com
 - 😄 Pronouns: she/her
